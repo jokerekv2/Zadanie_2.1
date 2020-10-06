@@ -3,5 +3,5 @@ class Movie {
     String description;
     String director;
     int rating;
-    final boolean oscars = true;
+    boolean oscars = true;
 }
